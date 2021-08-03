@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project Menu</string>
+    <string name="judulmenu1">MENU 1</string>
+    <string name="judulmenu2">MENU 2</string>
+    <string name="judulmenu3">MENU 3</string>
+    <string name="hello">Hello!! nama saya</string>
+    <string name="andy_kris_perdawan">Andy Kris Perdawan</string>
+</resources>
